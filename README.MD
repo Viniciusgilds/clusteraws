@@ -1,6 +1,5 @@
 # Cluster AWS
 
-- Imagem ilustrativa do projeto 
-
+# 1 Fazer Git Clone do repositorio para máquina local
 
 
