@@ -37,6 +37,22 @@ localhost:8082/hello.html
 ```
 aws ecr describe-repositories --profile "nome do perfil criado"
 ```
+- Dar permissão para o script chmod +x build.sh
+- Executar o script
+
+# 6 Criar Task Definition 
+
+- Lauch type:EC2 
+- Network mode: se for fargate awsvpc se for EC2 é modo bridge
+- Task size: se for fargate colocar as CPU, se não deixar vazio
+- Container: dar um nome ao container e inserir o URI da imagem do ECR
+- Criar
+
+# 7 Deploy 
+
+- Criar service 
+- Compute options: lauch type/EC2
+- Deployment 0/100
 
 
 
