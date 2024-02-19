@@ -1,7 +1,7 @@
 # Cluster AWS
 
 # Desenho do projeto
-https://github.com/Viniciusgilds/clusteraws/blob/main/Retrospectivas.jpg
+https://github.com/Viniciusgilds/clusteraws/blob/main/projetodesenho.jpg
 
 # 1 Fazer Git Clone do repositorio para máquina local
 
