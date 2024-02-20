@@ -40,7 +40,7 @@ localhost:8082/hello.html
 ```
 aws ecr describe-repositories --profile "nome do perfil criado"
 ```
-- Dar permissão para o script chmod +x build.sh (se for Windows cacls "nome do arquivo" /E /P Todos:F
+- Dar permissão para o script chmod +x build.sh (se for Windows cacls "nome do arquivo" /E /P Todos:F)
 - Executar o script
 
 # 6 Criar Task Definition 
