@@ -61,6 +61,10 @@ cacls "nome do arquivo" /E /P Todos:F)
 - Compute options: lauch type/EC2
 - Deployment 0/100
 
+# 8 Atualizando o Deploy 
+
+- Ir no script deploy.sh dae permissão para o arquivo e executar ele
+
 
 
 
